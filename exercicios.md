@@ -11,7 +11,7 @@ Resolução: 837b1c0
 ---
 
 Exercício 1.3: Experimente medir a diferença de tempo de execução entre  nossas versões potencialmente ineficientes e a versão que usa `strings.Join`. 
-Resolução: 
+Resolução: 93d4b40
 
 ```
 # for i in {1..3} ; do go build -o bin/echo${i} _echo${i}/echo${i}.go ; done
